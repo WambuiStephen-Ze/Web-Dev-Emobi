@@ -1,0 +1,43 @@
+body{
+    background:linear-gradient(to left, #ff7200, #ff6347, lime) ;
+}
+.menu{
+    float: left;
+    width:28%;
+    height:20px;
+    padding-right:2px;
+    padding-left:2px;
+    background: #e41942;
+}
+a{
+    font-size:18px;
+    margin:5px;
+    color: #1b871b;
+}
+a:hover{
+    color: black;
+
+}
+h2{
+    margin:2px;
+    font-family: Tahoma;
+    font-size: 32px;
+    text-align: center;
+}
+p{
+    color: blue;
+    font-family: "Candara Light";
+    font-size:22px;
+}
+.br{
+    color: maroon;
+}
+#button{
+    font-size: 48px;
+    color: rosybrown;
+    background-color: #53534a;
+}
+#button:hover{
+    color:purple;
+
+}
